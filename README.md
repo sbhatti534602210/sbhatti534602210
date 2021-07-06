@@ -1,5 +1,5 @@
-### Hi there 👋
-Bio: Researcher, data analyst, hopefully soon to be a coder through learning with Founders and Coders cohort 22.
+### Hello 👋
+My bio: Researcher, data analyst, hopefully soon to be a coder through learning with Founders and Coders cohort 22.
 <!--
 **sbhatti534602210/sbhatti534602210** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
