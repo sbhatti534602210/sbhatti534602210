@@ -1,6 +1,6 @@
 ### Hello 👋
 
-My bio: Researcher, data analyst, hopefully soon to be a coder through learning with Founders and Coders cohort 22.
+My bio: Researcher, data analyst, hopefully soon to be a software developer through learning with Founders and Coders cohort 22.
 
 ## My webpages so far
 
